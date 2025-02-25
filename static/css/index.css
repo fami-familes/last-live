@@ -18,7 +18,7 @@ body {
 .top_container {
     background-image: url('../img/bg_sky.png');
     background-size: auto 100%;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 .logo-linear {
