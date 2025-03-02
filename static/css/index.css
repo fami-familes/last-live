@@ -80,6 +80,10 @@ h2 {
     font-size: 5vw;
 }
 
+.ticket-link a {
+    text-decoration: underline;
+}
+
 .bx {
     vertical-align: middle;
 }
