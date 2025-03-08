@@ -17,7 +17,7 @@ body {
 
 .top_container {
     background-image: url('../img/bg_sky.png');
-    background-size: auto 100%;
+    background-size: cover;
     background-repeat: repeat;
 }
 
@@ -86,6 +86,16 @@ h2 {
 
 .bx {
     vertical-align: middle;
+}
+
+.setlist-link {
+    margin-top: 2vh;
+    text-align: center;
+    font-size: 5.8vw;
+}
+
+.setlist-link a {
+    text-decoration: underline;
 }
 
 /* --------- */
